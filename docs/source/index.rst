@@ -5,15 +5,16 @@
 
 Welcome to FastAPI Async CURD (SQLAlchemy)'s Documentation!
 ===========================================================
-.. contents::
+
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
    :caption: Contents:
    
-   introduction
-   
+   intro   
+   installation   
+   quickstart
+   curdobject
+   faststruct
+   contribution
 
-
-Indices and tables
-==================
 
