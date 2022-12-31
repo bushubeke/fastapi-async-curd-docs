@@ -1,4 +1,4 @@
-6 Contribution
+Contribution
 --------------
 
 Thanks for desiring to Contribuite
